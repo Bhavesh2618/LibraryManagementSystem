@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System with Persistent Data Storage
 
 ## Overview
 
